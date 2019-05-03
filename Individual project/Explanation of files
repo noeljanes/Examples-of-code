@@ -1,1 +1,9 @@
+Quick overview of the purpose of the files:
+These files were used to import and analyse data for project looking into the feasibility of using a laser to make a sensitive position sensor for the LIGO collaboration.
 
+python files:
+
+
+Matlab files:
+These matlab files were used to process images of the travel of a position "flag" across a laser beam. 
+This was done to get a measure of the responsivity of the flags
