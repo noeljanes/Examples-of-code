@@ -1,8 +1,8 @@
 Quick overview of the purpose of the files:
 These files were used to import and analyse data for my Individual Physics Project looking into the feasibility of using a laser to make a sensitive position sensor for the LIGO collaboration.
 
-python files:
-
+Python file:
+The python file was built to import and plot spectrum analyser data which came in the ASCII file format
 
 Matlab files:
 These matlab files were used to process images of the travel of a position "flag" across a laser beam. 
